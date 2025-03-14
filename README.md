@@ -15,8 +15,9 @@
 ```
 
 ### Currently working on:
-- Sharing my development setup in [`/phubar-dev-suite`](https://github.com/phun/phubar-dev-suite)
-- Learning Svelte and Rust
+- Backing up my development setup:
+  - Dotfiles: [`/dotfiles`](https://github.com/phun/dotfiles)
+  - Neovim: [`/kickstart.nvim`](https://github.com/phun/kickstart.nvim)
 
 <!--
 **phun/phun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
